@@ -1,6 +1,6 @@
 // src/components/Banner.js
 import React from 'react';
-import bannerImage from '../assets/imagengpt.webp';
+import bannerImage from '../assets/gpt2-moda.webp';
 
 const Banner = () => {
   return (
